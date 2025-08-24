@@ -1,4 +1,4 @@
-baseURL = "BuildStats-Public/"
+baseURL = "https://arthurdemanuele.info/BuildStats-Public"
 languageCode = "en-us"
 title = "XNail | XCode Project Tracking"
 theme = "Agnes"

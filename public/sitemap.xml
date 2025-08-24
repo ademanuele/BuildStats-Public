@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>BuildStats-Public/categories/</loc>
+    <loc>https://arthurdemanuele.info/BuildStats-Public/categories/</loc>
   </url><url>
-    <loc>BuildStats-Public/tags/</loc>
+    <loc>https://arthurdemanuele.info/BuildStats-Public/tags/</loc>
   </url><url>
-    <loc>BuildStats-Public/</loc>
+    <loc>https://arthurdemanuele.info/BuildStats-Public/</loc>
   </url>
 </urlset>
